@@ -1,3 +1,5 @@
+![Python CI](https://github.com/PalakSinha2505/DocTalk/actions/workflows/ci.yml/badge.svg)
+
 # DocTalk – AI-Powered PDF Question Answering System
 
 DocTalk is an AI-powered document intelligence system that enables users to interact with PDFs using natural language queries. Instead of manually scrolling through lengthy documents, users can upload a PDF and ask contextual questions such as summaries, explanations, technologies used, important highlights, or specific topic-related queries.
